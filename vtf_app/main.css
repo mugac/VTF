@@ -1,0 +1,19 @@
+Screen {
+    layout: vertical;
+}
+
+Header {
+    dock: top;
+}
+
+Footer {
+    dock: bottom;
+}
+
+ProcessTable {
+    height: 1fr;
+}
+
+DataTable {
+    height: 100%;
+}
